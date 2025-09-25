@@ -1,6 +1,0 @@
----
-description: 
-globs: 
-alwaysApply: true
----
-By default check the terminal when i'm executing code to look for any errors and propose to fix them incase any appears.
