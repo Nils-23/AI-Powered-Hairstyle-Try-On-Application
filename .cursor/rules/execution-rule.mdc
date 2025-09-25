@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+Whenever i prompt something, by default assume i need you to fix the issue, not simply explaining it
